@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-23T23:47:00 IST" name="Default suite" finished-at="2023-01-23T23:47:07 IST" duration-ms="6865">
+    <groups>
+    </groups>
+    <test started-at="2023-01-23T23:47:00 IST" name="Default test" finished-at="2023-01-23T23:47:07 IST" duration-ms="6865">
+      <class name="reqresApi2.Exercise1">
+        <test-method signature="getColorValue_TC03()[pri:0, instance:reqresApi2.Exercise1@15bbf42f]" started-at="2023-01-23T23:47:00 IST" name="getColorValue_TC03" finished-at="2023-01-23T23:47:06 IST" duration-ms="5922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getColorValue_TC03 -->
+        <test-method signature="getNumberOfId()[pri:0, instance:reqresApi2.Exercise1@15bbf42f]" started-at="2023-01-23T23:47:06 IST" name="getNumberOfId" finished-at="2023-01-23T23:47:07 IST" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNumberOfId -->
+        <test-method signature="getPantOneValue_TC03()[pri:0, instance:reqresApi2.Exercise1@15bbf42f]" started-at="2023-01-23T23:47:07 IST" name="getPantOneValue_TC03" finished-at="2023-01-23T23:47:07 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPantOneValue_TC03 -->
+      </class> <!-- reqresApi2.Exercise1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
